@@ -1,0 +1,11 @@
+# C++ build files
+*.exe
+*.out
+*.o
+a.exe
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
